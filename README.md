@@ -1,2 +1,4 @@
-# Assignment_1
- Basics to start with the course
+# Basics to start this course
+ Used this header as >"Starting content"
+ ## Included the other stuff using h2 tag
+ Added **<p>** wherever needed
